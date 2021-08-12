@@ -1,4 +1,4 @@
-# udacity-git-course
+
 # Date Created
 2021/08/12
 # Project Title 
@@ -11,3 +11,4 @@ It is important to commit to the remote repository branches with a commit messag
 Bikeshare.py and README.md
 # Credits
 Credits to the udacity mentors who helped me correct errors. This link (https://docs.microsoft.com/en-us/azure/devops/repos/git/create-new-repo?view=azure-devops#:~:text=Create%20a%20repo%20using%20the%20web%20portal%201,for%20your%20new%20repo.%20...%20More%20items...%20) helped me understand GIT more in addition to lectures
+
